@@ -3,7 +3,9 @@ The sinking of the RMS Titanic is one of the most infamous shipwrecks in history
 
 
 This is a Kaggle challenge.
+
 link to the challenge : https://www.kaggle.com/c/titanic/overview
+
 Data : https://www.kaggle.com/c/titanic/data
 
-Results : 0.7 accuracy
+Results : 0.7 accuracy (can be found in the CSV file)
